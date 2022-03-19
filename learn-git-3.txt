@@ -1,1 +1,5 @@
 learn git 3
+list pokemon
+- ang
+- katara
+- soka
