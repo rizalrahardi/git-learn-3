@@ -4,3 +4,4 @@ list pokemon
 - katara
 - soka
 - roku
+- kora
